@@ -1,6 +1,6 @@
 # Hello to the world, hello everybody!!
 
-Right now i'm an autodidact student in UTIM
+Right now i'm an _autodidact student in UTIM_
 
 I'm working on SACI, an academic proyect for my university, it's about IoT and automating a greenhouse, showing statistics about ph, temperature, humidity and more data necessary to analyze the state of the plants, im working in the web and mobile app for this moment
 
