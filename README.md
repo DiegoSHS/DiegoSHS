@@ -1,4 +1,4 @@
-# Hello to the world, hello everybody!! hola amigoos
+# Hello to the world, hello everybody!!
 
 Right now i'm an autodidact student in UTIM
 
