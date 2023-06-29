@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SACI](https://github.com/DiegoSHS/SACI_NEXTJS_BETA)
 
-- 🌱 I’m currently learning **Next Auth**
+- 🌱 I’m currently learning **Bunjs, Go and Next Auth**
 
 - 💬 Ask me about **Next.js, React and javascript**
 
