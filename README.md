@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Diego Lopez Ariza</h1>
-<h3 align="center">A fullstack developer and a student from mexico</h3>
+<h3 align="center">A fullstack developer and student from mexico</h3>
 
 - 🔭 I’m currently working on [SACI](https://github.com/DiegoSHS/SACI_NEXTJS_BETA)
 
