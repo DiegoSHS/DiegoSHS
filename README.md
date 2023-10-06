@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Diego Lopez Ariza</h1>
 <h3 align="center">A fullstack developer and student from mexico</h3>
 
-- 🔭 I’m currently working on [BICIMOTOS GONZÁLES WEB](https://github.com/DiegoSHS/bicimotos-gonzales-web)
+- 🔭 I’m currently working on [BICIMOTOS GONZÁLES WEB](https://github.com/DiegoSHS/bicimotos-gonzales-web) (private)
 
 - 🌱 I’m currently learning **Bunjs, Go and Next Auth**
 
