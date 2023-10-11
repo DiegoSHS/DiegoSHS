@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BICIMOTOS GONZÁLES WEB](https://github.com/DiegoSHS/bicimotos-gonzales-web)
 
-- 🌱 I’m currently learning **DevOps, CI/CD and Design Patterns**
+- 🌱 I’m currently learning **DevOps, CI/CD, UX/UI and Design Patterns**
 
 - 💬 Ask me about **Next.js, Next Auth, Python, React and javascript**
 
