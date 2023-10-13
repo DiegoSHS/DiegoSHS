@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Diego Lopez Ariza</h1>
 <h3 align="center">A fullstack developer and student from mexico</h3>
 
-- 🔭 I’m currently working on [BIGOW](https://github.com/DiegoSHS/bicimotos-gonzales-web)
+- 🔭 I’m currently working on [BIGOW](https://github.com/DiegoSHS/BIGOW)
 
 - 🌱 I’m currently learning **DevOps, CI/CD, UX/UI and Design Patterns**
 
