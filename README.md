@@ -19,7 +19,7 @@ I love to create new software solutions, just enjoy code and collaborating with 
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,html,css,tailwind,js,react,nextjs,java,cpp,py,mongodb,mysql,postman,netlify,vercel,figma,selenium,php,arduino,materialui" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,js,nodejs,express,html,css,bootstrap,tailwind,materialui,react,nextjs,mongodb,mysql,py,java,cpp,postman,netlify,vercel,figma,selenium,php,arduino,jquery" alt="skills logos" />
 </div>
 <h2></h2>
 <h3 align="center">Here some stats:</h3>
