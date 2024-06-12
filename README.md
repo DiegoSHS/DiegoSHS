@@ -11,7 +11,7 @@
 
 Right now i'm an __autodidact student at UTIM (Universidad Tecnológica de Izúcar de Matamoros)__
 
-I'm studying __Software Engineering: Development and Management__
+I'm studying __Software Engineering: Software Development and Management__
 
 I love to create new software solutions, just enjoy code and collaborating with my classmates, teachers and anyone who is nice to me and loves software as well
 <h2></h2>
