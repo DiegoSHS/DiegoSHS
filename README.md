@@ -1,11 +1,11 @@
 <h1 align="center">Hello world 👋, I'm Diego Lopez Ariza</h1>
 <h3 align="center">A fullstack developer and student from méxico</h3>
 
-- 🚀 I’m currently working on [GPD 'secreutim'](https://github.com/DiegoSHS/secreutim)
+- 🚀 I’m currently working on [GPD 'secreutim'](https://github.com/DiegoSHS/secreutim) and [gpd_backend](https://github.com/DiegoSHS/gpd_backend)
 
-- 🌱 I’m currently learning **DevOps, CI/CD, UX/UI and Design Patterns**
+- 🌱 I’m currently learning **DevOps, CI/CD, NestJS and Python**
 
-- 💬 Ask me about **Next.js, Next Auth, Python, React and javascript**
+- 💬 Ask me about **NEXTjs, NESTjs, Python, Javascript/TypeScript and all web-dev ecosystem**
 
 - 📫 How to reach me **diegoawesome40@gmail.com**
 
@@ -28,7 +28,7 @@ I love to create new software solutions, just enjoy code and collaborating with 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoshs&theme=transparent" alt="diegoshs" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoshs&show_icons=true&theme=transparent" alt="diegoshs" />
 </p>
-<p></p>
+<p>I know, js being my main to go languaje? i mean, i code more for web than other type of proyects since i started</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoshs&layout=compact&theme=transparent" alt="diegoshs" /></p>
 </div>
 
