@@ -1,4 +1,4 @@
-<h1 align="center">Hello world 👋, I'm Diego Lopez Ariza</h1>
+<h1 align="center">"Hello World" 👋, I'm Diego Lopez Ariza</h1>
 <h3 align="center">A fullstack developer and student from méxico</h3>
 
 - 🚀 I’m currently working on [GPD 'secreutim'](https://github.com/DiegoSHS/secreutim) and [gpd_backend](https://github.com/DiegoSHS/gpd_backend)
