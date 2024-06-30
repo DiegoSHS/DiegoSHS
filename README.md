@@ -1,6 +1,8 @@
 <h1 align="center">"Hello World" 👋, I'm Diego Lopez Ariza</h1>
 <h3 align="center">A fullstack developer and student from méxico</h3>
 
+![visits to profile](https://komarev.com/ghpvc/?username=diegoshs&style=for-the-badge&color=006AFF&label=diego's+Profile+views)
+
 - 🚀 I’m currently working on [GPD 'secreutim'](https://github.com/DiegoSHS/secreutim) and [gpd_backend](https://github.com/DiegoSHS/gpd_backend)
 
 - 🌱 I’m currently learning **DevOps, CI/CD, NestJS and Python**
@@ -22,7 +24,7 @@ I love to create new software solutions, just enjoy code and collaborating with 
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,js,nodejs,express,html,css,bootstrap,tailwind,materialui,react,nextjs,mongodb,mysql,py,java,cpp,postman,netlify,vercel,figma,selenium,php,arduino,jquery" alt="skills logos" />
 </div>
 <h2></h2>
-<h3 align="center">Here some stats:</h3>
+<h3 align="center">Here some of my coding stats:</h3>
 <div align="center">
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoshs&theme=transparent" alt="diegoshs" />
