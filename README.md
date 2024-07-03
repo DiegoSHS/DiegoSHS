@@ -3,7 +3,7 @@
 
 ![visits to profile](https://komarev.com/ghpvc/?username=diegoshs&style=for-the-badge&color=006AFF&label=diego's+Profile+views)
 
-- 🚀 I’m currently working on [GPD 'secreutim'](https://github.com/DiegoSHS/secreutim) and [gpd_backend](https://github.com/DiegoSHS/gpd_backend)
+- 🚀 I’m currently working on [GPD BACKEND](https://github.com/CADELmx/GPD_BACKEND) and [GPD_FRONTEND](https://github.com/CADELmx/GPD_FRONTEND)
 
 - 🌱 I’m currently learning **DevOps, CI/CD, NestJS and Python**
 
