@@ -27,11 +27,11 @@ I love to create new software solutions, just enjoy code and collaborating with 
 <h3 align="center">Here some of my coding stats:</h3>
 <div align="center">
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoshs&theme=transparent" alt="diegoshs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoshs&show_icons=true&theme=transparent" alt="diegoshs" />
+  <img align="center" src="https://github-readme-streak-stats-instance.vercel.app?user=diegoshs&theme=transparent&background=FFFFFF00&ring=35B950&fire=35B950&currStreakNum=35B950" alt="diegoshs" />
+  <img align="center" src="https://github-readme-stats-instance.vercel.app/api?username=diegoshs&show_icons=true&theme=transparent&ring_color=35B950" alt="diegoshs" />
 </p>
 <p>I know, js being my main to go languaje? i mean, i code more for web than other type of proyects since i started</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoshs&layout=compact&theme=transparent" alt="diegoshs" /></p>
+<p><img align="center" src="https://github-readme-stats-instance.vercel.app/api/top-langs/?username=diegoshs&layout=compact&theme=transparent" alt="diegoshs" /></p>
 </div>
 
 <!--
