@@ -3,7 +3,7 @@
 
 ![visits to profile](https://komarev.com/ghpvc/?username=diegoshs&style=for-the-badge&color=006AFF&label=diego's+Profile+views)
 
-- 🚀 I’m currently working on [GPD BACKEND](https://github.com/CADELmx/GPD_BACKEND) and [GPD_FRONTEND](https://github.com/CADELmx/GPD_FRONTEND)
+- 🚀 I’m currently working on [vancedmovies](https://github.com/DiegoSHS/vancedmovies) and [vancedstream](https://github.com/DiegoSHS/vancedstream)
 
 - 🌱 I’m currently learning **DevOps, CI/CD, NestJS and Python**
 
